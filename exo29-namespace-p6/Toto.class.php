@@ -8,7 +8,7 @@ class Toto
 {
 
     public function Toto(){
-        echo '<mark>Ma super fonction toto</mark>';
+        echo '<br/><mark>Ma super fonction toto</mark><br/>';
     }
 
 }

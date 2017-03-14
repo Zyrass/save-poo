@@ -21,6 +21,7 @@ class ComposerStaticInit3d54b7ee45684d7c2fc6366678a036c8
     );
 
     public static $classMap = array (
+        'Zyrass\\Info\\Tata' => __DIR__ . '/..' . '/Zyrass/Info/Tata.class.php',
         'Zyrass\\Info\\Toto' => __DIR__ . '/..' . '/Zyrass/Info/Toto.class.php',
     );
 

@@ -1,8 +1,9 @@
 <?php
 
-require 'Toto.class.php';
+require 'vendor/Zyrass/Info/Toto.class.php';
 
 use Zyrass\Info\Toto;
+
 /**
  * Une fois le fichier composer.json créé,
  * on ouvre le terminal et on saisie :

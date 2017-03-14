@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4" : {
+      "Zyrass\\": "vendor/Zyrass"
+    }
+  },
+  "require": {
+    "symfony/var-dumper": "^3.2"
+  }
+}

@@ -1,6 +1,6 @@
 <?php
 
-require 'Toto.class.php';
+require 'vendor/Zyrass/Info/Toto.class.php';
 
 use Zyrass\Info\Toto;
 /**
